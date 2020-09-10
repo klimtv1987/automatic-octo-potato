@@ -1,6 +1,6 @@
 Hello
 
 Sub Hello ()
-	var1 = "Go, son of a bitch"
+	var1 = 1 + 1
 	Wscript.Echo var1
 End sub
